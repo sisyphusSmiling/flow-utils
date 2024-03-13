@@ -36,6 +36,12 @@
         "testing": "0x0000000000000007"
       }
     },
+    "Burner": {
+      "source": "./node_modules/@flowtyio/flow-contracts/contracts/Burner.cdc",
+      "aliases": {
+        "emulator": "0xf8d6e0586b0a20c7"
+      }
+    },
     "FungibleTokenMetadataViews": {
       "source": "./node_modules/@flowtyio/flow-contracts/contracts/FungibleTokenMetadataViews.cdc",
       "aliases": {
